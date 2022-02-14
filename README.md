@@ -1,7 +1,7 @@
 # Welcome to the Exercism JS Solutions
 
 Hi! To begin my learning of JavaScript, I decided to take advantage of the platform exercism.org by enrolling in their JavaScript learning track. 
-### Current Progress: ![progress](https://progress-bar.dev/11/?title=15/139&width=120&color=2828c9)
+### Current Progress: ![progress](https://progress-bar.dev/11/?title=18/139&width=120&color=2828c9)
 
 ## Profile
 You can visit my profile at: [exercism.org/profiles/thorrellt](https://exercism.org/profiles/thorrellt)
@@ -67,3 +67,17 @@ You can visit my profile at: [exercism.org/profiles/thorrellt](https://exercism.
 - **coordinate-transformation**
 	- [Github](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/coordinate-transformation)
 	- [Exercism Challenge Hub](https://exercism.org/tracks/javascript/exercises/coordinate-transformation)
+
+- **fruit-picker**
+	- [Github](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/fruit-picker)
+	- [Exercism Challenge Hub](https://exercism.org/tracks/javascript/exercises/fruit-picker)
+
+- **custom-signs**
+	- [Github](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/custom-signs)
+	- [Exercism Challenge Hub](https://exercism.org/tracks/javascript/exercises/custom-signs)
+
+- **elyses-analytic-enchantments**
+	- [Github](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/elyses-analytic-enchantments)
+	- [Exercism Challenge Hub](https://exercism.org/tracks/javascript/exercises/elyses-analytic-enchantments)
+
+
