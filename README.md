@@ -80,4 +80,28 @@ You can visit my profile at: [exercism.org/profiles/thorrellt](https://exercism.
 	- [Github](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/elyses-analytic-enchantments)
 	- [Exercism Challenge Hub](https://exercism.org/tracks/javascript/exercises/elyses-analytic-enchantments)
 
+- **elyses-looping-enchantments**
+	- [Github](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/elyses-looping-enchantments)
+	- [Exercism Challenge Hub](https://exercism.org/tracks/javascript/exercises/elyses-looping-enchantments)
+
+- **elyses-transformative-enchantments**
+	- [Github](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/elyses-transformative-enchantments)
+	- [Exercism Challenge Hub](https://exercism.org/tracks/javascript/exercises/elyses-transformative-enchantments)
+
+- **gigasecond**
+	- [Github](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/gigasecond)
+	- [Exercism Challenge Hub](https://exercism.org/tracks/javascript/exercises/gigasecond)
+
+- **resistor-color**
+	- [Github](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/resistor-color)
+	- [Exercism Challenge Hub](https://exercism.org/tracks/javascript/exercises/resistor-color)
+
+- **resistor-color-duo**
+	- [Github](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/resistor-color-duo)
+	- [Exercism Challenge Hub](https://exercism.org/tracks/javascript/exercises/resistor-color-duo)
+
+- **two-fer**
+	- [Github](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/two-fer)
+	- [Exercism Challenge Hub](https://exercism.org/tracks/javascript/exercises/two-fer)
+
 
