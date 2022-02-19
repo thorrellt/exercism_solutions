@@ -115,3 +115,20 @@ You can visit my profile at: [exercism.org/profiles/thorrellt](https://exercism.
 - **factory-sensors**
 	- [Github](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/factory-sensors)
 	- [Exercism Challenge Hub](https://exercism.org/tracks/javascript/exercises/factory-sensors)
+
+	- **rna-transcription**
+	- [Github](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/rna-transcription)
+	- [Exercism Challenge Hub](https://exercism.org/tracks/javascript/exercises/rna-transcription)
+
+- **pangram**
+	- [Github](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/pangram)
+	- [Exercism Challenge Hub](https://exercism.org/tracks/javascript/exercises/ozans-pangram)
+
+- **space-age**
+	- [Github](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/space-age)
+	- [Exercism Challenge Hub](https://exercism.org/tracks/javascript/exercises/space-age)
+
+- **translation-service**
+	- [Github](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/translation-service)
+	- [Exercism Challenge Hub](https://exercism.org/tracks/javascript/exercises/translation-service)
+
