@@ -8,142 +8,142 @@ You can visit my profile at: [exercism.org/profiles/thorrellt](https://exercism.
 
 ## Challenges
 
-- **hello-world**
+1. **hello-world**
 	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/hello-world)
  [[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/hello-world)
 
-- **lasagna**
+1. **lasagna**
 	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/lasagna)
  [[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/lasagna)
 
-- **annalyns-infiltration**
+1. **annalyns-infiltration**
 	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/annalyns-infiltration)
 [[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/annalyns-infiltration)
 
-- **freelancer-rates**
+1. **freelancer-rates**
 	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/freelancer-rates)
  [[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/freelancer-rates)
 
-- **poetry-club-door-policy**
+1. **poetry-club-door-policy**
 	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/poetry-club-door-policy)
  [[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/poetry-club-door-policy)
 
-- **elyses-enchantments**
+1. **elyses-enchantments**
 	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/elyses-enchantments)
  [[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/elyses-enchantments)
 
-- **vehicle-purchase**
+1. **vehicle-purchase**
 	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/vehicle-purchase)
  [[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/vehicle-purchase)
 
-- **bird-watcher**
+1. **bird-watcher**
 	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/bird-watcher)
  [[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/bird-watcher)
 
-- **mixed-juices**
+1. **mixed-juices**
 	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/mixed-juices)
  [[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/mixed-juices)
 
-- **lucky-numbers**
+1. **lucky-numbers**
 	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/lucky-numbers)
  [[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/lucky-numbers)
 
-- **amusement-park**
+1. **amusement-park**
 	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/amusement-park)
  [[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/amusement-park)
 
-- **high-score-board**
+1. **high-score-board**
 	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/high-score-board)
  [[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/high-score-board)
 
-- **lasagna-master**
+1. **lasagna-master**
 	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/lasagna-master)
  [[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/lasagna-master)
 
-- **elyses-destructured-enchantments**
+1. **elyses-destructured-enchantments**
 	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/elyses-destructured-enchantments)
  [[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/elyses-destructured-enchantments)
 
-- **coordinate-transformation**
+1. **coordinate-transformation**
 	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/coordinate-transformation)
  [[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/coordinate-transformation)
 
-- **fruit-picker**
+1. **fruit-picker**
 	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/fruit-picker)
  [[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/fruit-picker)
 
-- **custom-signs**
+1. **custom-signs**
 	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/custom-signs)
  [[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/custom-signs)
 
-- **elyses-analytic-enchantments**
+1. **elyses-analytic-enchantments**
 	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/elyses-analytic-enchantments)
  [[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/elyses-analytic-enchantments)
 
-- **elyses-looping-enchantments**
+1. **elyses-looping-enchantments**
 	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/elyses-looping-enchantments)
  [[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/elyses-looping-enchantments)
 
-- **elyses-transformative-enchantments**
+1. **elyses-transformative-enchantments**
 	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/elyses-transformative-enchantments)
  [[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/elyses-transformative-enchantments)
 
-- **gigasecond**
+1. **gigasecond**
 	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/gigasecond)
  [[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/gigasecond)
 
-- **resistor-color**
+1. **resistor-color**
 	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/resistor-color)
  [[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/resistor-color)
 
-- **resistor-color-duo**
+1. **resistor-color-duo**
 	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/resistor-color-duo)
  [[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/resistor-color-duo)
 
-- **two-fer**
+1. **two-fer**
 	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/two-fer)
  [[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/two-fer)
 
-- **ozans-playlist**
+1. **ozans-playlist**
 	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/ozans-playlist)
  [[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/ozans-playlist)
 
-- **windowing-system**
+1. **windowing-system**
 	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/windowing-system)
  [[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/windowing-system)
 
-- **factory-sensors**
+1. **factory-sensors**
 	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/factory-sensors)
  [[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/factory-sensors)
 
-- **rna-transcription**
+1. **rna-transcription**
 	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/rna-transcription)
  [[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/rna-transcription)
 
-- **pangram**
+1. **pangram**
 	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/pangram)
  [[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/pangram)
 
-- **space-age**
+1. **space-age**
 	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/space-age)
  [[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/space-age)
 
-- **translation-service**
+1. **translation-service**
 	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/translation-service)
  [[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/translation-service)
 
-- **book-store**
+1. **book-store**
 	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/book-store)
  [[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/book-store)
 
-- **pascals-triangle**
+1. **pascals-triangle**
 	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/pascals-triangle)
  [[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/pascals-triangle)
 
-- **bob**
+1. **bob**
 	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/bob)
  [[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/bob)
 
-- **matrix**
+1. **matrix**
 	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/matrix)
  [[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/matrix)
