@@ -151,3 +151,9 @@ You can visit my profile at: [exercism.org/profiles/thorrellt](https://exercism.
 1. **leap**
 	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/leap)
  [[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/leap)
+
+1. **reverse-string**
+	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/reverse-string)
+ [[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/reverse-string)
+
+ 
