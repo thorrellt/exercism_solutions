@@ -147,3 +147,7 @@ You can visit my profile at: [exercism.org/profiles/thorrellt](https://exercism.
 1. **matrix**
 	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/matrix)
  [[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/matrix)
+
+1. **leap**
+	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/leap)
+ [[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/leap)
