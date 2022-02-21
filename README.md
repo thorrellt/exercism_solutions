@@ -1,7 +1,7 @@
 # Welcome to the Exercism JS Solutions
 
 Hi! To begin my learning of JavaScript, I decided to take advantage of the platform exercism.org by enrolling in their JavaScript learning track. 
-### Current Progress: ![progress](https://progress-bar.dev/27/?title=38/139&width=120&color=2828c9)
+### Current Progress: ![progress](https://progress-bar.dev/28/?title=39/139&width=120&color=2828c9)
 
 ## Profile
 You can visit my profile at: [exercism.org/profiles/thorrellt](https://exercism.org/profiles/thorrellt)
@@ -160,4 +160,6 @@ You can visit my profile at: [exercism.org/profiles/thorrellt](https://exercism.
 	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/collatz-conjecture)
  [[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/collatz-conjecture)
 
- 
+1. **matching-brackets**
+	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/matching-brackets)
+[[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/matching-brackets)
