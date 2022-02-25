@@ -1,7 +1,7 @@
 # Welcome to the Exercism JS Solutions
 
 Hi! To begin my learning of JavaScript, I decided to take advantage of the platform exercism.org by enrolling in their JavaScript learning track. 
-### Current Progress: ![progress](https://progress-bar.dev/29/?title=40/139&width=120&color=2828c9)
+### Current Progress: ![progress](https://progress-bar.dev/32/?title=44/139&width=120&color=2828c9)
 
 ## Profile
 You can visit my profile at: [exercism.org/profiles/thorrellt](https://exercism.org/profiles/thorrellt)
@@ -167,3 +167,19 @@ You can visit my profile at: [exercism.org/profiles/thorrellt](https://exercism.
 1. **triangle**
 	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/triangle)
 [[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/triangle)
+
+1. **word-count**
+	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/word-count)
+[[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/word-count)
+
+1. **raindrops**
+	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/raindrops)
+[[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/raindrops)
+
+1. **hamming**
+	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/hamming)
+[[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/hamming)
+
+1. **etl**
+	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/etl)
+[[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/etl)
