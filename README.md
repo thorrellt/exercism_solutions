@@ -183,3 +183,13 @@ You can visit my profile at: [exercism.org/profiles/thorrellt](https://exercism.
 1. **etl**
 	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/etl)
 [[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/etl)
+
+1. **difference-of-squares**
+	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/difference-of-squares)
+[[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/difference-of-squares)
+
+1. **bank-account**
+	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/bank-account)
+[[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/bank-account)
+
+
