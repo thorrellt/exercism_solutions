@@ -192,4 +192,7 @@ You can visit my profile at: [exercism.org/profiles/thorrellt](https://exercism.
 	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/bank-account)
 [[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/bank-account)
 
+1. **perfect-numbers**
+	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/perfect-numbers)
+[[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/perfect-numbers)
 
