@@ -1,7 +1,7 @@
 # Welcome to the Exercism JS Solutions
 
 Hi! To begin my learning of JavaScript, I decided to take advantage of the platform exercism.org by enrolling in their JavaScript learning track. 
-### Current Progress: ![progress](https://progress-bar.dev/34/?title=47/139&width=120&color=2828c9)
+### Current Progress: ![progress](https://progress-bar.dev/35/?title=48/139&width=120&color=2828c9)
 
 ## Profile
 You can visit my profile at: [exercism.org/profiles/thorrellt](https://exercism.org/profiles/thorrellt)
@@ -195,4 +195,9 @@ You can visit my profile at: [exercism.org/profiles/thorrellt](https://exercism.
 1. **perfect-numbers**
 	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/perfect-numbers)
 [[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/perfect-numbers)
+
+1. **acronym**
+	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/acronym)
+[[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/acronym)
+
 
