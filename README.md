@@ -1,7 +1,7 @@
 # Welcome to the Exercism JS Solutions
 
 Hi! To begin my learning of JavaScript, I decided to take advantage of the platform exercism.org by enrolling in their JavaScript learning track. 
-### Current Progress: ![progress](https://progress-bar.dev/35/?title=49/139&width=120&color=2828c9)
+### Current Progress: ![progress](https://progress-bar.dev/37/?title=52/139&width=120&color=2828c9)
 
 ## Profile
 You can visit my profile at: [exercism.org/profiles/thorrellt](https://exercism.org/profiles/thorrellt)
@@ -203,4 +203,16 @@ You can visit my profile at: [exercism.org/profiles/thorrellt](https://exercism.
 1. **anagram**
 	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/anagram)
 [[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/anagram)
+
+1. **high-scores**
+	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/high-scores)
+[[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/high-scores)
+
+1. **isogram**
+	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/isogram)
+[[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/isogram)
+
+1. **phone-number**
+	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/phone-number)
+[[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/phone-number)
 
