@@ -216,3 +216,13 @@ You can visit my profile at: [exercism.org/profiles/thorrellt](https://exercism.
 	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/phone-number)
 [[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/phone-number)
 
+1. **series**
+	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/series)
+[[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/series)
+
+1. **scale-generator**
+	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/scale-generator)
+[[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/scale-generator)
+
+
+
