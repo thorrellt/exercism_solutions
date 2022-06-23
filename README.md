@@ -1,7 +1,7 @@
 # Welcome to the Exercism JS Solutions
 
 Hi! To begin my learning of JavaScript, I decided to take advantage of the platform exercism.org by enrolling in their JavaScript learning track. 
-### Current Progress: ![progress](https://progress-bar.dev/37/?title=52/139&width=120&color=2828c9)
+### Current Progress: ![progress](https://progress-bar.dev/40/?title=55/139&width=120&color=2828c9)
 
 ## Profile
 You can visit my profile at: [exercism.org/profiles/thorrellt](https://exercism.org/profiles/thorrellt)
@@ -223,6 +223,10 @@ You can visit my profile at: [exercism.org/profiles/thorrellt](https://exercism.
 1. **scale-generator**
 	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/scale-generator)
 [[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/scale-generator)
+
+1. **transpose**
+	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/transpose)
+[[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/transpose)
 
 
 
