@@ -1,7 +1,7 @@
 # Welcome to the Exercism JS Solutions
 
 Hi! To begin my learning of JavaScript, I decided to take advantage of the platform exercism.org by enrolling in their JavaScript learning track. 
-### Current Progress: ![progress](https://progress-bar.dev/40/?title=56/139&width=120&color=2828c9)
+### Current Progress: ![progress](https://progress-bar.dev/42/?title=59/139&width=120&color=2828c9)
 
 ## Profile
 You can visit my profile at: [exercism.org/profiles/thorrellt](https://exercism.org/profiles/thorrellt)
@@ -240,9 +240,9 @@ You can visit my profile at: [exercism.org/profiles/thorrellt](https://exercism.
 	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/diffie-hellman)
 [[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/diffie-hellman)
 
-1. **grade-school**
-	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/grade-school)
-[[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/grade-school)
+1. **protein-translation**
+	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/protein-translation)
+[[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/protein-translation)
 
 
 
