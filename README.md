@@ -232,5 +232,17 @@ You can visit my profile at: [exercism.org/profiles/thorrellt](https://exercism.
 	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/grade-school)
 [[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/grade-school)
 
+1. **rotational-cypher**
+	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/rotational-cypher)
+[[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/rotational-cypher)
+
+1. **diffie-hellman**
+	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/diffie-hellman)
+[[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/diffie-hellman)
+
+1. **grade-school**
+	- [[Github]](https://github.com/thorrellt/exercism_solutions/tree/master/javascript/grade-school)
+[[Exercism Challenge Hub]](https://exercism.org/tracks/javascript/exercises/grade-school)
+
 
 
